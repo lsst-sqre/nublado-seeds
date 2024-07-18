@@ -1,0 +1,13 @@
+title: Portal query
+description: Retrieve results from a Portal query URL.
+authors:
+  - name: Adam Thornton
+    slack: adam
+tags:
+  - portal
+  - query
+parameters:
+  query_url:
+    type: string
+    description: URL returned by Portal referencing a specific user query.
+    default: https://rsp.example.com/api/tap/async/dummy_id
