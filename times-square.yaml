@@ -1,0 +1,4 @@
+enabled: true
+description: >-
+  These are templates for notebooks that users may wish to generate from
+  other RSP services.
