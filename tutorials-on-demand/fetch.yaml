@@ -1,0 +1,13 @@
+title: Tutorial fetch
+description: Retrieve contents from a tutorial notebook path
+authors:
+  - name: Adam Thornton
+    slack: adam
+tags:
+  - tutorial
+  - fetch
+parameters:
+  path:
+    type: string
+    description: Notebook name (and prepended path if not top-level)
+    default: DP02_01_Introduction_to_DP02
