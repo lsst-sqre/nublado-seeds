@@ -1,0 +1,13 @@
+title: Async TAP query
+description: Retrieve results from a an Async TAP query URL.
+authors:
+  - name: Adam Thornton
+    slack: adam
+tags:
+  - portal
+  - query
+parameters:
+  query_url:
+    type: string
+    description: URL referencing a specific async TAP user query.
+    default: https://rsp.example.com/api/tap/async/jobref_id
