@@ -1,0 +1,10 @@
+title: TAP query history
+description: Retrieve (possibly long) list of query IDs for a user
+authors:
+  - name: Adam Thornton
+    slack: adam
+tags:
+  - tap
+  - query
+  - history
+parameters: {}
